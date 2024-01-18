@@ -1,3 +1,4 @@
+![logo](https://github.com/rafipeshawar/rafipeshawar/blob/main/cover_linkedln.jpeg)
 <h1 align="center">Hi 👋, I'm Rafi Peshawar Albuthy</h1>
 <h3 align="center">A passionate web development from Indonesia</h3>
 
